@@ -67,8 +67,6 @@ To see how you can add code snippets, see below:
   border-radius: 15px;
 }
 ```
-
-
 ### Continued development
 
 I really want to dig more into Flexbox. It's still confusing. May be watch a few more videos or some courses on Scrimba and or LinkedIn learning.
@@ -78,6 +76,7 @@ I really want to dig more into Flexbox. It's still confusing. May be watch a few
 ### Useful resources
 
 - [Resource 1](https://www.youtube.com/watch?v=jQr-bM6-XTc&t=21271s) - This helped me with Flexbox. I really liked this persons content hope it will help me going forward.
+- [Resource 2] (https://yoksel.github.io/flex-cheatsheet/#section-justify-content) - Found this great resource on Github.
 
 ## Author
 
